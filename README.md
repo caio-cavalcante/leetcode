@@ -8,6 +8,7 @@ Repository for my LeetCode solutions
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/caio-cavalcante/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/caio-cavalcante/leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/caio-cavalcante/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/caio-cavalcante/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -18,6 +19,7 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/caio-cavalcante/leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,4 +28,9 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/caio-cavalcante/leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
