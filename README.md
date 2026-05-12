@@ -37,4 +37,8 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/caio-cavalcante/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
