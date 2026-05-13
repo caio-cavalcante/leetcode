@@ -21,6 +21,7 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/caio-cavalcante/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/caio-cavalcante/leetcode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/caio-cavalcante/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/caio-cavalcante/leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,4 +42,9 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/caio-cavalcante/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/caio-cavalcante/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/caio-cavalcante/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
