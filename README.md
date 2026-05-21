@@ -7,6 +7,7 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/caio-cavalcante/leetcode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/caio-cavalcante/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/caio-cavalcante/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/caio-cavalcante/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/caio-cavalcante/leetcode/tree/master/0645-set-mismatch) |
@@ -45,6 +46,7 @@ Repository for my LeetCode solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/caio-cavalcante/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/caio-cavalcante/leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/caio-cavalcante/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -52,5 +54,6 @@ Repository for my LeetCode solutions
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/caio-cavalcante/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/caio-cavalcante/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
