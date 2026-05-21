@@ -11,11 +11,13 @@ Repository for my LeetCode solutions
 | [0485-max-consecutive-ones](https://github.com/caio-cavalcante/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/caio-cavalcante/leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/caio-cavalcante/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-build-an-array-with-stack-operations](https://github.com/caio-cavalcante/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/caio-cavalcante/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/caio-cavalcante/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/caio-cavalcante/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/caio-cavalcante/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -47,4 +49,8 @@ Repository for my LeetCode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/caio-cavalcante/leetcode/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/caio-cavalcante/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
